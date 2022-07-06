@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "unordered_map": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "future": "cpp"
     }
 }
